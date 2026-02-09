@@ -1,5 +1,6 @@
 # Claude Code local settings
 .claude/skills/
+.claude/docs/progress.md
 
 # Node.js
 node_modules/
